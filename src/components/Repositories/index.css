@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+.section-4{
+
+    width: 70%;
+    position: absolute;
+    right: 0;
+    height: 100%;
+}
+
+.card-repo  {
+
+    color:rgb(85,162,237);
+    margin-top: 10px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+  line-height: 33px;
+   border-bottom:solid rgb(84, 83, 83)  0.1px ;
+   
+}
+.a{
+    color: rgb(85,162,237);
+    font-size: 20px;
+
+}
+
+b{
+    font-size: 12px;
+     border: solid 0.1px rgb(84, 83, 83);
+     border-radius: 23px;
+     padding:5px 5px;
+     -webkit-border-radius: 23px;
+     -moz-border-radius: 23px;
+     -ms-border-radius: 23px;
+     -o-border-radius: 23px;
+     position: relative;
+     left: 23px;
+    color:rgb(171, 171, 171);
+}
