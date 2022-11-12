@@ -78,3 +78,57 @@ body{
     -ms-border-radius: 7px;
     -o-border-radius: 7px;
 }
+
+
+
+
+@media only screen and (max-width: 400px){
+
+    .ul-2{
+       
+        position: absolute;
+        left: 1px;
+        top: 412px;
+        z-index: 9999;
+    }
+
+     .header{
+        position: absolute;
+     }
+    
+    .section-2{
+       
+    }
+
+    .main{
+        background-color: #0660e7;
+        
+        
+
+    }
+     
+     .first-page img {
+        width: 100px;
+       margin-top: 80px;
+        z-index: 90;
+    }
+    .first-page h3 {
+       position:absolute;
+       top: 280px;
+       
+      
+       z-index: 99;
+
+    
+
+
+       
+    }
+    .first-page button{
+       position: absolute;
+       top: 334px;
+       left: 60px;
+
+      }
+     
+}

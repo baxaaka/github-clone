@@ -44,3 +44,44 @@ b{
      left: 23px;
     color:rgb(171, 171, 171);
 }
+
+
+@media only screen and (max-width: 400px) {
+
+
+    input{
+     width: 200px;
+     
+    
+    }
+   
+    .header{
+        width: 500px;
+    }
+     .ul-1{
+        width: 200px;
+        font-size: 10px;
+        gap: none;
+        justify-content: none;
+        display: none;
+        
+     }
+    
+     .right-icons{
+     position: relative;
+     right: inherit;
+    
+     }
+   
+    
+
+       .section-4{
+        width: 100%;
+        position: absolute;
+        top: 432px;
+        display: flex;
+        justify-content: center;
+        z-index: -999;
+
+    }
+ }
